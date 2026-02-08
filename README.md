@@ -13,7 +13,7 @@ I intend to write a thesis on the latter, focusing on kernel methods.
 ### In the past... 📊
 I spent most of my college life in the **Physical and Mathematical Sciences Department** of my university.
 Health didn't permit me take courses every year,
-so my absence ruled out graduating with a **Major in Mathematics** as I intended despite completing a full **three (3) years** of courses.
+so my absence ruled out graduating with a **Major in Mathematics** as I intended despite completing a full 3 years of courses.
 
 I turned that setback into a strength by leaning into the Computer Science Department.
 You can hardly put it as pivoting, it's a continuation to my education that goes well with my mathematical background.
