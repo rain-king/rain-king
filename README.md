@@ -1,6 +1,6 @@
 # `$ whoami`
 ## Education 📚
-### Currently
+### Currently 💻
 I am studying the _"Data Science Engineering"_ Major in Mexico.
 The program consists of a mix of the basics in:
 - Computer Science,
