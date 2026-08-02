@@ -25,8 +25,8 @@ Through the years the estimation aspect of mathematics has become one of my favo
 ## Why I like Mathematics
 I like having the formal definitions burned into my mind, they give you a "target" to identify when a complex problem arises.
 If not for the theorems and applications, the language (and thus thinking) you get from it alone is worth it. For example I have these notes that are simply the basics of the respective theory:
-- [https://github.com/rain-king/notas_algebra_lineal](Linear Algebra Notes in Spanish).
-- [https://github.com/rain-king/mathanalysis](Introduction to Measure Theory Notes).
+- [Linear Algebra Notes in Spanish](https://github.com/rain-king/notas_algebra_lineal).
+- [Introduction to Measure Theory Notes](https://github.com/rain-king/mathanalysis).
 The advanced parts I'd be interesting in going through only as much as another topic also uses them, as they are not as ubiquitous as the basic theory. I might write such notes in the future.
 
 ## How I read Math books
