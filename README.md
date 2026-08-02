@@ -1,39 +1,34 @@
 # `$ whoami`
-## Education 📚
-### Currently 💻
-I am studying the **Data Science Engineering** Major in Mexico.
-The program consists of a mix of the basics in:
-- Computer Science,
-- Software Development,
-- Data Engineering,
-- Statistical Learning.
+I'm an undergrad student with orientation towards Applied Mathematics and Computation. I've done most of the Math major coursework, some Computer Science and Data Analytics.
 
-I intend to write a thesis on the latter, focusing on kernel methods.
+## Explaining some of my repos
+My code in some of my projects is ad-hoc due the time restraints of having homework and lectures,
+but I do not waste the opportunity to add a new concept I wanted to try in basic Python or C++/Rust.
+I will try better implementations for HPC when the time permits.
 
-### In the past... 📊
-I spent most of my college life in the **Physical and Mathematical Sciences Department** of my university.
-Health didn't permit me take courses every year,
-so my absence ruled out graduating with a **Major in Mathematics** as I intended despite completing a full 3 years of courses.
+### Linear Programming
+For example these 2024 repos of linear programming simply have Simplex methods, but not the more interesting interior-point methods:
+- [Simplex in Rust](https://github.com/rain-king/simplex_rs)
+- [Simplex in Python](https://github.com/rain-king/simplex_py)
+- [Dual Simplex in Rust](https://github.com/rain-king/dual_simplex)
+- [Big-M Simplex Method in Rust](https://github.com/rain-king/big-m_simplex)
 
-I turned that setback into a strength by leaning into the Computer Science Department.
-You can hardly put it as pivoting, it's a continuation to my education that goes well with my mathematical background.
+These are simply because I was taking Operations Research and doing these calculations by hand and I wanted a way to check on my work. I have plans to refactor these into a single Rust library project with an idiomatic way to select the method to use, like traits. I was using a crate for arrays back then, I wonder if it's up to date today, if I should write my own matrix math library, or use a different crate.
 
-## My Strengths 💪
-I am more oriented towards **writing reports and documenting analytical problems**, those that have mathematical models.
-My code in those projects are often ad-hoc due the time restraints,
-but I do not waste the opportunity to add a new concept I wanted to try.
+Since I got an interest for optimization methods in general now, I might write a few more general convex programming methods, though I might be more inclined to use a different language.
 
-For instance Python with its OOP and first class functions is a good playground,
-even though I am more fond of (still high level) languages that hide less below the surface, like C++.
+### Runge-Kutta 4 and Differential Equations of Higher Order
+In 2020 I wrote [a Fortran program](https://github.com/rain-king/RK4-Hermite) to numerically test some (proven) hypothesis of Hermite polynomials regarding the Hermite differential equation
+($\ddot{x}(t) - 2\dot{x}(t) t + \lambda x(t) = 0$). I hadn't taken either mathematical or numerical analysis, so it was challenging to get what was asked of me done, but it got done. I even wrote some code in Python to get a few graphs of what was happening.
+Through the years the estimation aspect of mathematics has become one of my favorite topics, be it with noisy data or truncating a series to finite steps.
 
-## My current interest in Mathematics 📊
-I am particularly fond of anything that deals with errors, estimation and approximation: wavelets and spaces of functions, and the ideas of **functional analysis**.
-My way of going through books nowadays is more "exploratory" than sitting strictly through the classical "definition-theorem-proof" loop.
+## Why I like Mathematics
+I like having the formal definitions burned into my mind, they give you a "target" to identify when a complex problem arises.
+If not for the theorems and applications, the language (and thus thinking) you get from it alone is worth it. For example I have these notes that are simply the basics of the respective theory:
+- [https://github.com/rain-king/notas_algebra_lineal](Linear Algebra Notes in Spanish).
+- [https://github.com/rain-king/mathanalysis](Introduction to Measure Theory Notes).
+The advanced parts I'd be interesting in going through only as much as another topic also uses them, as they are not as ubiquitous as the basic theory. I might write such notes in the future.
 
-Why I like it? Because I like having the formal definitions burned into my mind, they give you a "target" to identify when a complex problem arises.
-If not for the theorems and applications, only the language you get from Mathematics is worth it.
+## How I read Math books
+My way of going through books nowadays is more "exploratory" than sitting strictly through the classical "definition-theorem-proof" loop. While I used to sit with a notebook to truly learn the language in the past. Nowadays I grab theoretical books on applications like optimization and skim to see the major concepts. Now I only sit with a notebook when the language is ubiquitous in current papers I'm more interested in getting a basic grasp. 
 
-## Hobbies 🎮
-- Literature: This entry wouldn't be here without Dostoevsky who got me into buying a Kindle.
-- Simracing and FPS multiplayers: sadly, both with a controller.
-- Music: aggressive and melodical music, but also OSTs and a lot of Pop/Indie.
