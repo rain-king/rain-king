@@ -1,6 +1,3 @@
-# `$ whoami`
-I'm an undergrad student with orientation towards Applied Mathematics and Computation. I've done most of the Math major coursework, some Computer Science and Data Analytics.
-
 ## Explaining some of my repos
 My code in some of my projects is ad-hoc due the time restraints of having homework and lectures,
 but I do not waste the opportunity to add a new concept I wanted to try in basic Python or C++/Rust.
